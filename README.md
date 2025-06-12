@@ -1,6 +1,6 @@
 # Hi there, I'm Huma Tahir 👋
 
-!(./huma.gif)
+![Header Animation](./huma.gif)
 
 From laser interferometry to supercomputer benchmarking, I turn "that's impossible" into "hold my coffee." EE grad with a passion for making machines smarter and more human friendly. I've taught computers to read handwriting, predict microscopic movements, and optimize parallel processing performance. 
 
