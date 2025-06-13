@@ -20,8 +20,8 @@ From laser interferometry to supercomputer benchmarking, I turn "that's impossib
 ## How to reach me
 
 **Email:** htahir.bee21seecs@seecs.edu.pk  
-**LinkedIn:** (https://www.linkedin.com/in/huma-tahir-65632a24a/)  
+**LinkedIn:** https://www.linkedin.com/in/huma-tahir-65632a24a/  
 
 ---
 
-⭐ From (https://github.com/princess-humario)
+⭐ From https://github.com/princess-humario
